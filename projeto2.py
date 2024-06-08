@@ -1,4 +1,4 @@
-# ACERTO O NÚMERO DE 1 A 10!
+# ACERTE O NÚMERO DE 1 A 10!
 
 '''
 Escreva um programa que, ao iniciar gera um valor aleatório de 1 a 10 e permite que o usuário chute um número até que o valor aleatório gerado no início do programa seja acertado.
@@ -38,7 +38,6 @@ Analise criticamente o problema e descubra:
     if chute = numero:
         print('Você acertou!)
 '''
-
 
 while True:
     import random

@@ -75,7 +75,3 @@ Os códigos são redundantes, caso precise verificar se é par ou ímpar, basta 
 Só muda o operador de verificação.
 --------------------------------------------------------
 '''
-
-
-
-
